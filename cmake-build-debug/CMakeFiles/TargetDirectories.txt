@@ -1,0 +1,5 @@
+/home/dmitriy/CLionProjects/Task QT Calculator/cmake-build-debug/CMakeFiles/calculator.dir
+/home/dmitriy/CLionProjects/Task QT Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dmitriy/CLionProjects/Task QT Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dmitriy/CLionProjects/Task QT Calculator/cmake-build-debug/CMakeFiles/calculator_autogen_timestamp_deps.dir
+/home/dmitriy/CLionProjects/Task QT Calculator/cmake-build-debug/CMakeFiles/calculator_autogen.dir

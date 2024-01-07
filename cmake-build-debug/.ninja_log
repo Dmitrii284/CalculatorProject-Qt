@@ -1,0 +1,16 @@
+# ninja log v5
+1	4440	1704655657156854526	CMakeFiles/Task_QT_Calculator.dir/Calculator.cpp.o	49257bc3814084d9
+401	4180	1704655936291546405	CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.o	b8c074102eb5312c
+401	6283	1704655938395539035	CMakeFiles/calculator.dir/main.cpp.o	c9afb2dad0a7cce0
+0	401	1704655932511559724	/home/dmitriy/CLionProjects/Task QT Calculator/cmake-build-debug/calculator_autogen/timestamp	8f0d3bd48acb98f4
+0	401	1704655932511559724	/home/dmitriy/CLionProjects/Task QT Calculator/cmake-build-debug/calculator_autogen/mocs_compilation.cpp	8f0d3bd48acb98f4
+0	401	1704655932511559724	calculator_autogen/timestamp	8f0d3bd48acb98f4
+0	401	1704655932511559724	calculator_autogen/mocs_compilation.cpp	8f0d3bd48acb98f4
+3	3702	1704655725164466525	CMakeFiles/Task_QT_Calculator.dir/main.cpp.o	10d024d9fe5dfa5e
+402	4980	1704655937095543585	CMakeFiles/calculator.dir/Calculator.cpp.o	85f60baba39d0be7
+6284	6830	1704655938939537135	calculator	98991adf69c744e2
+0	89	1704656089683082304	build.ninja	f5896618756be64a
+3	21	1704656089719082210	calculator_autogen/timestamp	8f0d3bd48acb98f4
+3	21	1704656089719082210	calculator_autogen/mocs_compilation.cpp	8f0d3bd48acb98f4
+3	21	1704656089719082210	/home/dmitriy/CLionProjects/Task QT Calculator/cmake-build-debug/calculator_autogen/timestamp	8f0d3bd48acb98f4
+3	21	1704656089719082210	/home/dmitriy/CLionProjects/Task QT Calculator/cmake-build-debug/calculator_autogen/mocs_compilation.cpp	8f0d3bd48acb98f4
